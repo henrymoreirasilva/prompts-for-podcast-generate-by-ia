@@ -26,9 +26,7 @@
 
 ## ✨ Resultado
 
-[Download do podcast](https://github.com/henrymoreirasilva/prompts-for-podcast-generate-by-ia/tree/main/output/podcast.mp3)
-
-<audio src="https://github.com/henrymoreirasilva/prompts-for-podcast-generate-by-ia/tree/main/output/podcast.mp3" controls title="Podcast editado"></audio>
+[Download do podcast](https://github.com/henrymoreirasilva/prompts-for-podcast-generate-by-ia/tree/main/output/)
 
 ## 💻 Tecnologias utilizadas no projeto
 
