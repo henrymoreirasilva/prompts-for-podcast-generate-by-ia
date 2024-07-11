@@ -18,19 +18,17 @@
 </a>
 </p>
 
-<p align="center">
-    preview do podcast
-</p>
-
-<div align="center">
-    <audio src="output/podcast.mp3" controls title="Podcast editado"></audio>
-</div>
-
 # Projeto Podcast Gerado por I.A.s
 
 
  > ℹ️ **NOTE:** Este repositório é um fork de [felipeAguiarCode/prompts-for-podcast-generate-by-ia](felipeAguiarCode/prompts-for-podcast-generate-by-ia). 
  Este, tem como objetivo, descrever os recursos utilizados para a geração de um podcast sobre linguagem de programação GO, utilizando ferramentas de IA generativas.
+
+## ✨ Resultado
+
+[Download do podcast](https://github.com/henrymoreirasilva/prompts-for-podcast-generate-by-ia/tree/main/output/podcast.mp3)
+
+<audio src="https://github.com/henrymoreirasilva/prompts-for-podcast-generate-by-ia/tree/main/output/podcast.mp3" controls title="Podcast editado"></audio>
 
 ## 💻 Tecnologias utilizadas no projeto
 
