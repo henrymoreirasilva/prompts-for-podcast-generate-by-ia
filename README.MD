@@ -26,9 +26,9 @@
 
 ## ✨ Resultado
 
-[Download do podcast](https://github.com/henrymoreirasilva/prompts-for-podcast-generate-by-ia/tree/main/output/podcast.mp3)
-
-<audio src="https://github.com/henrymoreirasilva/prompts-for-podcast-generate-by-ia/tree/main/output/podcast.mp3" controls title="Podcast editado"></audio>
+<div align="center">
+<iframe width="400" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1868496114&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/henry-moreira-silva-1" title="Henry Moreira Silva 1" target="_blank" style="color: #cccccc; text-decoration: none;">Henry Moreira Silva 1</a> · <a href="https://soundcloud.com/henry-moreira-silva-1/go-alem-do-codigo-historia-e-aplicacoes" title="GO Além do Código: História e Aplicações" target="_blank" style="color: #cccccc; text-decoration: none;">GO Além do Código: História e Aplicações</a></div>
+</div>
 
 ## 💻 Tecnologias utilizadas no projeto
 
