@@ -30,7 +30,7 @@
 
 
  > ℹ️ **NOTE:** Este repositório é um fork de [felipeAguiarCode/prompts-for-podcast-generate-by-ia](felipeAguiarCode/prompts-for-podcast-generate-by-ia). 
- Este, tem como objetivo, descrever os recursos utilizados para a geração de um podcast utilizando ferramentas de IA generativas sobre linguagem de programação GO
+ Este, tem como objetivo, descrever os recursos utilizados para a geração de um podcast sobre linguagem de programação GO, utilizando ferramentas de IA generativas.
 
 ## 💻 Tecnologias utilizadas no projeto
 
